@@ -1,12 +1,12 @@
 ### Hi there 👋
-[![masterhead](https://static.vecteezy.com/system/resources/thumbnails/002/196/227/small/abstract-technology-futuristic-digital-concept-square-pattern-with-lighting-glowing-particles-square-elements-on-dark-blue-background-free-vector.jpg)](https://mahimaganesh-g.io)
+
 <h1 align="center">Hi 👋, I'm Mahima G</h1>
 <h3 align="center">Frontend Developer</h3>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/J0xw.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahimaganesh-g&label=Profile%20views&color=0e75b6&style=flat" alt="mahimaganesh-g" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahimaganesh-g" alt="mahimaganesh-g" /></a> </p>
+
 
 - 🔭 I’m currently working on **JavaScript**
 
